@@ -1,2 +1,2 @@
 # g
-A C-like programming language bootstraped in C, that compiles to GNU Assembly
+A C-like compiledprogramming language bootstraped in C, that compiles to GNU Assembly
